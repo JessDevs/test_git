@@ -1,0 +1,5 @@
+I am testing out nano and git commits
+
+I am making a new file here in order to save to push
+
+This is GitHub practice - simple as that
